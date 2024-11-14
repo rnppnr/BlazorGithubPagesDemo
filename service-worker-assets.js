@@ -25,7 +25,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-NCgFV01T9S4IVMd1EW+f595UrcY9bHnI858HgcAJUhI=",
+      "hash": "sha256-UPCmYU0GTF7CxMKK4eovTBXVORRpNvlIt3fN46FAyR8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -37,7 +37,7 @@
       "url": "_framework\/dotnet.native.wasm"
     },
     {
-      "hash": "sha256-g22e8aN6+nXpPAsskKMBxj1olDwc0NXsoNYTBW77mIg=",
+      "hash": "sha256-lEKHCe2JL++qT0voXRgEQCdK1WcMzO9KwXfO7DpVwQU=",
       "url": "_framework\/BlazorGithubPagesDemo.wasm"
     },
     {
@@ -205,5 +205,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "APZqo2Ml"
+  "version": "GfRGpkXv"
 };
